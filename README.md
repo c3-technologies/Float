@@ -1,2 +1,2 @@
-# ieee-754-iOS
-IEEE 754 Converter for iOS
+# Float
+Cross platform floating point number convertor based on the IEEE 754 standard.
