@@ -1,0 +1,2 @@
+/Users/CCannon/Documents/development/Float/Float/Droid/obj/Debug/Float.Droid.csprojResolveAssemblyReference.cache
+/Users/CCannon/Documents/development/Float/Float/Droid/obj/Debug/Float.Droid.csproj.CoreCompileInputs.cache

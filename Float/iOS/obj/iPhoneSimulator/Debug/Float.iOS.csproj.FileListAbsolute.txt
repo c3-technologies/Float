@@ -1,0 +1,6 @@
+/Users/CCannon/Documents/development/Float/Float/iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/CCannon/Documents/development/Float/Float/iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/CCannon/Documents/development/Float/Float/iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/CCannon/Documents/development/Float/Float/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/CCannon/Documents/development/Float/Float/iOS/obj/iPhoneSimulator/Debug/Float.iOS.csprojResolveAssemblyReference.cache
+/Users/CCannon/Documents/development/Float/Float/iOS/obj/iPhoneSimulator/Debug/Float.iOS.csproj.CoreCompileInputs.cache

@@ -1,6 +1,11 @@
 ﻿<Properties StartupConfiguration="{4065C279-ACA1-42FF-8173-F13EDFA38AD5}|Default">
-  <MonoDevelop.Ide.ItemProperties.Float.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.0B4F3F7C-3054-403A-BC03-E95FC2F566AE" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.ItemProperties.Float.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B153F177-1B7B-47C3-B8DC-B19E9F656F7E" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Float/App.xaml.cs">
+    <Files>
+      <File FileName="Float/FloatPage.xaml" Line="5" Column="1" />
+      <File FileName="Float/App.xaml.cs" Line="9" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
