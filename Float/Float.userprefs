@@ -1,10 +1,11 @@
 ﻿<Properties StartupConfiguration="{4065C279-ACA1-42FF-8173-F13EDFA38AD5}|Default">
   <MonoDevelop.Ide.ItemProperties.Float.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B153F177-1B7B-47C3-B8DC-B19E9F656F7E" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Float/Precision.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Float/FloatingPointNumber.cs">
     <Files>
       <File FileName="Float/FloatPage.xaml" Line="5" Column="1" />
       <File FileName="Float/App.xaml.cs" Line="9" Column="4" />
-      <File FileName="Float/Precision.cs" Line="6" Column="9" />
+      <File FileName="Float/Precision.cs" Line="27" Column="21" />
+      <File FileName="Float/FloatingPointNumber.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
