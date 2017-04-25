@@ -20,5 +20,6 @@
       <DependentUpon>FloatPage.xaml</DependentUpon>
     </Compile>
     <Compile Include="$(MSBuildThisFileDirectory)Precision.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)FloatingPointNumber.cs" />
   </ItemGroup>
 </Project>
