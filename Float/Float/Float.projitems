@@ -19,5 +19,6 @@
     <Compile Include="$(MSBuildThisFileDirectory)FloatPage.xaml.cs">
       <DependentUpon>FloatPage.xaml</DependentUpon>
     </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Precision.cs" />
   </ItemGroup>
 </Project>
